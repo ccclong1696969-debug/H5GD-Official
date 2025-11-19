@@ -2,7 +2,7 @@
 
 CURRENT FILES ARE NOT FINAL AS OF: 11/04/2025 
 Currently Maintained by 
-Founder: Carter Long
+Founder: Carter Long,
 Co-Founder: Thomas Frye
 
 # Teaser
